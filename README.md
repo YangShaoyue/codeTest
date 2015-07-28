@@ -15,5 +15,6 @@
   文件，在文件里列出你的 Rails 项目地址。然后发送 Pull Request 请求给本项目。
 
 加分题：
+
 1. 在 Rails 项目里增加一个页面，使用 React 来渲染一个日历，默认显示当前月。
 2. 使用 Server-Side Rendering 技术在服务器端渲染出这个日历。
